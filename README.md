@@ -149,6 +149,7 @@ Incoming Inspection 📦 ──► Defect Logged (NCR) 🛑 ──► Containmen
 
 * **[OpenQMS](https://github.com/Open-Industry-System/OpenQMS)** — Complete 8D CAPA solver, Supplier Corrective Action Requests (SCAR), Incoming Quality Control (IQC), and Customer Complaint RMA management.
 * **[QMS MCP Server](https://github.com/zavora-ai/mcp-qms)** — Model Context Protocol endpoint enabling AI assistants to inspect batch records, generate NCR summaries, and check CAPA verification status.
+* **[8D Report Checklist](https://github.com/eightdgate/8d-report-checklist)** — Free 21-item checklist to review an 8D CAPA report before sending: containment, occurrence/escape root cause, verified actions.
 
 ---
 

@@ -67,6 +67,7 @@ Below is a detailed comparison of leading enterprise QMS SaaS providers, sorted 
 | **[Intellect QMS](https://www.intellectqms.com/)** | **$15M+ ARR** (Private) | ~$8,000 / year base package | 14-day custom sandbox trial | No-code compliant QMS platform, drag-and-drop workflow builder, mobile apps, audit management. |
 | **[Harrington QMS](https://www.harrington-group.com/)** | **$10M+ ARR** (Private) | ~$1,200 / single user license | 30-day evaluation trial copy | Quality management software, document control, calibration, maintenance, corrective actions. |
 | **[Tulip Frontline Operations](https://tulip.co/)** | **$25M+ ARR** ($150M+ Funding) | $1,200 / station / year ($100/mo) | 30-day full feature trial (1 station, unlimited apps) | No-code frontline operational apps, vision inspection, IoT shop-floor quality enforcement. |
+| **[8D Gate](https://8d-gate.vercel.app)** | — | — | Free browser tools | 8D / D4 checklist, Gage R&R calculator, Audit Readiness Check (self-check questions for ISO 9001 / IATF 16949 surveillance-audit prep; advisory only) |
 
 ---
 
